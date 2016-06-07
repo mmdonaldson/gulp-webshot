@@ -74,6 +74,11 @@ Type: `boolean|string`
 
 Flatten out captures.
 
+
+#### options.customNameExt
+
+Type: `string`
+
 more options checkout [webshot options](https://github.com/brenden/node-webshot#options).
 
 
