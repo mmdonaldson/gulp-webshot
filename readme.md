@@ -74,6 +74,25 @@ Type: `boolean|string`
 
 Flatten out captures.
 
+
+#### options.customNameExt
+
+Type: `string`
+
+Example: -mobile
+
+#### options.streamType
+
+Type: `string`
+
+Possible values are 'png', 'jpg', and 'jpeg'.
+
+#### options.quality
+
+Type: `int`
+
+JPEG compression quality. (%)
+
 more options checkout [webshot options](https://github.com/brenden/node-webshot#options).
 
 
